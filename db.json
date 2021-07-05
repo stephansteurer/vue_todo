@@ -1,0 +1,9 @@
+{
+    "iirdsPackages": [
+        { "name": "Package-1.iirds" },
+        { "name": "Package-2.iirds" },
+        { "name": "Package-3.iirds" },
+        { "name": "Package-4.iirds" },
+        { "name": "Package-5.iirds" }
+      ]
+}
